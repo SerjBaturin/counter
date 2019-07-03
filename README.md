@@ -6,4 +6,4 @@
 * Препроцессор: Sass
 
 ### Чтобы запустить приложение, перейдите по ссылке
-https://github.com/SerjBaturin/counter
+https://serjbaturin.github.io/counter
