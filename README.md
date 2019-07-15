@@ -1,9 +1,9 @@
-# Простой счётчик на React / Redux
+# Simple React / Redux counter
 
-* Язык: Javascript / React / Redux
-* Сборка: Webpack
-* Транспайлер: Babel
-* Препроцессор: Sass
+* Javascript / React / Redux
+* Webpack
+* Babel
+* Sass
 
-### Чтобы запустить приложение, перейдите по ссылке
+### Please, follow the link to launch the application:
 https://serjbaturin.github.io/counter
